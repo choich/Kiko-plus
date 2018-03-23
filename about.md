@@ -5,7 +5,7 @@ permalink: /about/
 <img src="https://raw.githubusercontent.com/choich/choich.github.io/master/assets/images/profile_image.png" alt="Profile-image" width="200"/>
 
 # ChoiChanhwan(Choich)
-Birth 2000 in Korea
+Birth 2000 in Korea<br>
 Server · Web · Arduino developer
 ## Technical Tools
 Python · C · PHP · SQL · HTML · CSS · JavaScript · Flask · MariaDB · Arduino
