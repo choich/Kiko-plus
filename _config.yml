@@ -6,11 +6,11 @@
 name:               "Kiko Plus"
 
 author:
-  facebook:         your-id
+  facebook:         choich00
   youtubeUser:      your-id
   youtubeChannel:   your-id
   twitter:          your-id
-  github:           your-id
+  github:           choich
   stackoverflow:    your-id
   quora:            your-id
   linkedin:         your-id
@@ -20,24 +20,24 @@ author:
   reddit:           your-id
   medium:           your-id
   tumblr:           your-id
-  email:            your-id@your-email.com
+  email:            ghks9791@gmail.com
 
 copyright:
-  year:             2017
-  name:             Kiko
+  year:             2018
+  name:             Choich
 
 # Google-analytics
 google-analytics:
-  id:               ""
+  id:               "ghks9791"
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               "choich"
 
 # URL
-url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
+url:                "https://choich.github.io" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
-baseurl:            "/Kiko-plus" # the subpath of your site, e.g. /blog
+baseurl:            "/" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
