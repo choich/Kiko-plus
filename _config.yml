@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "choich"
+  id:               "choich-github-io"
 
 # URL
 url:                "https://choich.github.io" # the base hostname & protocol for your site
