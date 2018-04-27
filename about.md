@@ -8,6 +8,6 @@ permalink: /about/
 Birth 2000 in Korea<br>
 Server · Web · Arduino developer
 ## Technical Tools
-Python · C · PHP · SQL · HTML · CSS · JavaScript · Flask · MariaDB · Arduino
+Python · C · PHP · SQL · HTML · CSS · JavaScript · Flask · Django · MariaDB · Arduino · Codeigniter
 ## Education
 * 2016 ~ : Korea Digital Media Highschool - Web Programming
