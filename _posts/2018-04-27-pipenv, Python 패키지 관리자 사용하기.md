@@ -30,11 +30,9 @@ Pipenv : https://github.com/pypa/pipenv
 
 pip을 이용해 pipenv 설치하기
 
-```
 {% highlight bash %}
 $ pip install pipenv
 {% endhighlight python %}
-```
 
 프로젝트 폴더로 이동해서 세팅하기
 
