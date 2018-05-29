@@ -31,7 +31,7 @@ Pipenv : https://github.com/pypa/pipenv
 pip을 이용해 pipenv 설치하기
 
 ```
-{% highlight python %}
+{% highlight bash %}
 $ pip install pipenv
 {% endhighlight python %}
 ```
